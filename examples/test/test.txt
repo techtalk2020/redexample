@@ -2,7 +2,7 @@
 
 IP address: 127.0.0.1
 Port: 22
-User: jjackson
+User: jjackson-s1-ubu
 jenkins
 
 #Key utilized
